@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+<<<<<<< HEAD
     <title>Categories on Restaurant Hugo</title>
     <link>https://arkaspro.co.jp/DinerTummy/categories/</link>
     <description>Recent content in Categories on Restaurant Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language><atom:link href="https://arkaspro.co.jp/DinerTummy/categories/index.xml" rel="self" type="application/rss+xml" />
+=======
+    <title>Categories on Diner Tummy</title>
+    <link>https://dinertummy.com/categories/</link>
+    <description>Recent content in Categories on Diner Tummy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    
+	<atom:link href="https://dinertummy.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+>>>>>>> 0ad2141ed9f3c73f0e1d05570df6fa26bca4e1d2
   </channel>
 </rss>

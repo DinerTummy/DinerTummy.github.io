@@ -2,6 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+<<<<<<< HEAD
     <loc>https://arkaspro.co.jp/DinerTummy/blog/</loc>
     <lastmod>2021-02-13T19:53:16+09:00</lastmod>
   </url><url>
@@ -9,10 +10,36 @@
     <lastmod>2021-02-13T19:53:16+09:00</lastmod>
   </url><url>
     <loc>https://arkaspro.co.jp/DinerTummy/</loc>
+=======
+    <loc>https://dinertummy.com/blog/</loc>
+    <lastmod>2021-02-13T19:53:16+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dinertummy.com/</loc>
+    <lastmod>2021-02-13T19:53:16+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dinertummy.com/blog/new-dish/</loc>
+>>>>>>> 0ad2141ed9f3c73f0e1d05570df6fa26bca4e1d2
     <lastmod>2021-02-13T19:53:16+09:00</lastmod>
   </url><url>
     <loc>https://arkaspro.co.jp/DinerTummy/categories/</loc>
   </url><url>
     <loc>https://arkaspro.co.jp/DinerTummy/tags/</loc>
   </url>
+<<<<<<< HEAD
 </urlset>
+=======
+  
+  <url>
+    <loc>https://dinertummy.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dinertummy.com/tags/</loc>
+  </url>
+  
+</urlset>
+>>>>>>> 0ad2141ed9f3c73f0e1d05570df6fa26bca4e1d2
